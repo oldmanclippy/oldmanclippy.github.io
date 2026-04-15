@@ -8,7 +8,7 @@
 
 [Coaches DLC](https://www.google.com/maps/d/edit?mid=1vrTfsRj_-JhRTLFfmiAzyoxadklC4fo&usp=sharing) (map not as actively updated)
 
-[Anatolia DLC (name TBA)](https://www.google.com/maps/d/edit?mid=10JRRN6i7lxvLaiRJYiOnOdvcxfYr7jE&usp=sharing)
+[Soul of Anatolia DLC](https://www.google.com/maps/d/edit?mid=10JRRN6i7lxvLaiRJYiOnOdvcxfYr7jE&usp=sharing)
 ## My SCS Forum Threads
 [The NFL Pick'Em Game](https://forum.scssoft.com/viewtopic.php?t=333448)
 
