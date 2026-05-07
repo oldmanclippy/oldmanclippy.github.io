@@ -1,7 +1,5 @@
 # oldmanclippy's ETS2 and ATS Links
 ## ETS2 Blog Screenshot Maps
-[Benelux Rework](https://www.google.com/maps/d/edit?mid=1fg-_LMX3cFAhg9TTLszLJI7uAmvgxWk&usp=sharing)
-
 [Iceland DLC](https://www.google.com/maps/d/edit?mid=1JZobafgUU3BKJg1gUFuhqluh31lGMfo&usp=sharing)
 
 [Isle of Ireland DLC and United Kingdom Rework](https://www.google.com/maps/d/edit?mid=1FuoDbYErxjFC3juYQI0R6rKJb87UiiQ&usp=sharing)
@@ -16,6 +14,8 @@
 
 [My Low-Hanging Fruit wishlist](https://forum.scssoft.com/viewtopic.php?t=340342)
 ## Past Blog Screenshot Maps
+[Benelux Rework](https://www.google.com/maps/d/edit?mid=1fg-_LMX3cFAhg9TTLszLJI7uAmvgxWk&usp=sharing)
+
 [Nordic Horizons DLC and Scandinavia Refresh](https://www.google.com/maps/d/edit?mid=11E_VmOGGxBHTmhyj3a3bzzMU8xR1Mv8&usp=sharing)
 
 [Greece DLC](https://www.google.com/maps/d/edit?mid=1Mlwnu_CDrZEyjgOmisHxm__Yncz_UMs&usp=sharing)
