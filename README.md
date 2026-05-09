@@ -7,6 +7,8 @@
 [Coaches DLC](https://www.google.com/maps/d/edit?mid=1vrTfsRj_-JhRTLFfmiAzyoxadklC4fo&usp=sharing) (map not as actively updated)
 
 [Soul of Anatolia DLC](https://www.google.com/maps/d/edit?mid=10JRRN6i7lxvLaiRJYiOnOdvcxfYr7jE&usp=sharing)
+## Other Maps
+[Sports in ATS and ETS2](https://www.google.com/maps/d/edit?mid=18QbeLdkiZounqC4TTF0mMxun31qQg98&usp=sharing)
 ## My SCS Forum Threads
 [The NFL Pick'Em Game](https://forum.scssoft.com/viewtopic.php?t=333448)
 
